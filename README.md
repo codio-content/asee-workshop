@@ -20,7 +20,7 @@ cd workshop
 
 > ⚠️ Use the HTTPS URL above — not SSH. SSH requires linking your GitHub account first, which we're skipping to save time.
 
-**3. Open this repo directory on your file system as a "Project" in OpenCode Desktop
+**3. Open this repo directory on your file system as a "Project" in OpenCode Desktop**
 
 
 You're ready.
