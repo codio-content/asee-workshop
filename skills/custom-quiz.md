@@ -1,11 +1,7 @@
 # My Quiz Skill
 
-> This is your personal skill file. Fill it in during Activity 2 and save it as
-> `skills/my-quiz.md` inside your Codio assignment.
->
-> Once saved, tell the orchestrator:
-> "Read skills/my-quiz.md. Use this as standing context for any quiz I ask you to build."
-
+> This is a supplemental resource on what else you can do while building skills in Codio.
+> Remember, once you build a skill, just ask the orchestrator to register it and you're good to go!
 ---
 
 ## Course context
