@@ -41,7 +41,7 @@ It knows where in the assignment the artifact should live. It writes directly to
 
 Skills in the integrated environment work the same way as in Section 1 — they're `.md` files that give the AI standing context. The difference is persistence.
 
-In Section 1, you had to reference your skill file manually at the start of every session. In Codio, skill files you place in your assignment's `/skills` folder are available to the orchestrator automatically across sessions.
+In Section 1, you had to reference your skill file manually at the start of every session. In Codio, you use the "Skill Builder" which is part of the Open Code orchestrator that creates everything in the right format based on your specifications and once you're set, you ask it to register so it's available in that assignment to use.
 
 You build a skill once. It applies every time.
 
