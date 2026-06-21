@@ -32,17 +32,20 @@ You're ready.
 ```
 workshop/
 │
-├── README.md                  ← you are here
+├── README.md                       ← you are here
 │
 ├── activities/
-│   └── activity-1.md          ← Section 1 hands-on activity
+│   ├── activity-1.md               ← Section 1: best practices (local OpenCode)
+│   └── activity-2.md               ← Section 2: integrated workflow (Codio)
 │
 ├── prompts/
-│   ├── do-not-assume.md       ← the "Do Not Assume" starter snippet
-│   └── structured-prompt.md   ← structured prompt reference card
+│   ├── do-not-assume.md            ← the "Do Not Assume" starter snippet
+│   ├── structured-prompt.md        ← structured prompt reference card
+│   └── integrated-workflow.md      ← how the Codio OpenCode environment works and why
 │
 └── skills/
-    └── lesson-plan.md         ← reusable skill file (reference)
+    ├── local-opencode-lesson-plan.md   ← reusable skill file example (reference)
+    └── codio-custom-quiz.md            ← extra resource on skill from activity 2 (reference)
 ```
 
 
@@ -54,7 +57,6 @@ workshop/
 |---|---|---|
 | 0 | Welcome & quick poll | 10 min |
 | 1 | Best practices for generic AI tools | 30 min |
-| — | Break | 15 min |
 | 2 | Integrated workflows (OpenCode in Codio) | 30 min |
 | 3 | Assessments & AI use policy | 30 min |
 | 4 | Q&A and wrap-up | 15 min |
@@ -66,11 +68,16 @@ workshop/
 | | |
 |---|---|
 | Create your Codio account | [codio.com/workshop](https://codio.com/workshop) |
+| Download and Install Open Code Desktop | [Open Code Desktop](https://opencode.ai/download) |
 | Pre-workshop survey | [bit.ly/presurvey-form](https://bit.ly/asee-presurvey) |
 | Post-workshop feedback | [bit.ly/postsurvey-form](https://bit.ly/asee-postsurvey) |
+
 
 ---
 
 ## 📬 Questions after the workshop?
 
+Evan Fingerman   - efingerman@codio.com
 Mohit Chandarana — mchandarana@codio.com
+Patrick Ester    - patricke@codio.com
+
